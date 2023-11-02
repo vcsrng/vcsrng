@@ -1,18 +1,19 @@
 # Hi there 👋 , I'm vincent
-* 😄 He/Him  
-* 🎓 Pursuing a bachelor's degree in Computer Science at Binus University  
-* 🌱 Currently learning Data Mining and Geographical Information System  
-* 🚀 Goals: breaking through old boundaries, producing innovative innovations and delivering creative results
+😄 He/Him  
+🎓 Pursuing a bachelor's degree in Computer Science at Binus University  
+🌱 Currently learning Data Mining and Geographical Information System  
+🚀 Goals: breaking through old boundaries, producing innovative innovations and delivering creative results
 
 
 ## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vcsrng&theme=swift&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=vcsrng&theme=swift&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vcsrng&theme=swift&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vcsrng&theme=swift&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vcsrng&theme=swift&hide_border=true)
+
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vincentsaranang) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vincent-vincent-843224234) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/vincentsaranang)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vincent-vincent-843224234) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vincentsaranang) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/vincentsaranang)
 
 
 ## 💻 Tech Stack:
