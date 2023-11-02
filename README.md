@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm vincent
+# Hi there 👋 , I'm Vincent
 😄 He/Him  
 🎓 Pursuing a bachelor's degree in Computer Science at Binus University  
 🌱 Currently learning Data Mining and Geographical Information System  
