@@ -1,12 +1,12 @@
 ### Hi there 👋 , I'm vincent
-😄 He/Him
-🎓 Pursuing a bachelor's degree in Computer Science at Binus University
-🌱 Currently learning Data Mining and Geographical Information System
-🚀 Goals: breaking through old boundaries, producing innovative innovations and delivering creative results
+- 😄 He/Him
+- 🎓 Pursuing a bachelor's degree in Computer Science at Binus University
+- 🌱 Currently learning Data Mining and Geographical Information System
+- 🚀 Goals: breaking through old boundaries, producing innovative innovations and delivering creative results
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vincentsaranang) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vincent-vincent-843224234) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/vincentsaranang)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vincentsaranang) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vincent-vincent-843224234) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/vincentsaranang)
 
 
 # 💻 Tech Stack:
