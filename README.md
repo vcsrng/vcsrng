@@ -1,8 +1,8 @@
 # Hi there 👋 , I'm vincent
-### 😄 He/Him
-### 🎓 Pursuing a bachelor's degree in Computer Science at Binus University
-### 🌱 Currently learning Data Mining and Geographical Information System
-### 🚀 Goals: breaking through old boundaries, producing innovative innovations and delivering creative results
+* 😄 He/Him
+* 🎓 Pursuing a bachelor's degree in Computer Science at Binus University
+* 🌱 Currently learning Data Mining and Geographical Information System
+* 🚀 Goals: breaking through old boundaries, producing innovative innovations and delivering creative results
 
 
 ## 🌐 Socials:
