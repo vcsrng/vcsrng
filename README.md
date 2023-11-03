@@ -2,8 +2,8 @@
 😄 He/Him  
 🎓 Pursuing a bachelor's degree in Computer Science at Binus University  
 🌱 Currently learning Data Mining and Geographical Information System  
-🚀 Goals: breaking through old boundaries, producing innovative innovations and delivering creative results
-
+🚀 Goals: breaking through old boundaries, producing innovative innovations and delivering creative results  
+🌟 An ordinary person who's not ordinary
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vcsrng&icon=5&color=12)](https://visitcount.itsvg.in)
