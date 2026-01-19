@@ -18,9 +18,9 @@
   </p>
 </div>
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-<!--     <img src="https://visitcount.itsvg.in/api?id=vcsrng&icon=5&color=12" alt="visitcount"> -->
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=vcsrng&icon=5&color=12" alt="visitor badge"/>
+  <a href="https://komarev.com/ghpvc/?username=vcsrng&color=blue">
+<!--     <img src="https://komarev.com/ghpvc/?username=vcsrng&color=blue" alt="visitcount"> -->
+    <img src="https://komarev.com/ghpvc/?username=vcsrng&color=blue" alt="visitor badge"/>
   </a>
 </p>
 
