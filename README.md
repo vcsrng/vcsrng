@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=vcsrng&color=blue">
 <!--     <img src="https://komarev.com/ghpvc/?username=vcsrng&color=blue" alt="visitcount"> -->
-    <img src="https://komarev.com/ghpvc/?username=vcsrng&color=blue" alt="visitor badge"/>
+    <img src="https://komarev.com/ghpvc/?username=vcsrng&style=for-the-badge&color=blue" alt="visitor badge"/>
   </a>
 </p>
 
