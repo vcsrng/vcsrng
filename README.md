@@ -83,8 +83,8 @@ I build modular, scalable, and clean code with a long-term mindset. I love creat
 ---
 
 <div align="center">
-  <a href="https://github-readme-stats-vcsrng.vercel.app/api?username=vcsrng&show_icons=true&theme=dracula&count_private=true"><img src="https://github-readme-stats.vercel.app/api?username=vcsrng&show_icons=true&theme=dracula&count_private=true" width="49%"/></a>
-  <a href="https://github-readme-stats-vcsrng.vercel.app/api/top-langs/?username=vcsrng&layout=compact&theme=dracula&langs_count=8"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcsrng&layout=compact&theme=dracula&langs_count=8" width="37.5%"/></a>
+  <a href="https://github-readme-stats-vcsrng.vercel.app/api?username=vcsrng&show_icons=true&theme=dracula&count_private=true"><img src="https://github-readme-stats-vcsrng.vercel.app/api?username=vcsrng&show_icons=true&theme=dracula&count_private=true" width="49%"/></a>
+  <a href="https://github-readme-stats-vcsrng.vercel.app/api/top-langs/?username=vcsrng&layout=compact&theme=dracula&langs_count=8"><img src="https://github-readme-stats-vcsrng.vercel.app/api/top-langs/?username=vcsrng&layout=compact&theme=dracula&langs_count=8" width="37.5%"/></a>
 </div>
 
 ---
